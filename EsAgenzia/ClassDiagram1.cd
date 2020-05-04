@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Canghiari_Matteo_EsAgenzia.Agenzia">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEAAAAAAAACAAAAAAAAAEAAAAIAEAAAA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Livello" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Canghiari_Matteo_EsAgenzia.Livello">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAQAAAAgAAAAAAAAAAAACAECAAAAAAAAAGAAgA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Staff" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Canghiari_Matteo_EsAgenzia.RetribuzioneLivello">
+    <Position X="12.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAEAAAAAIAAAAAA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Livello" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Canghiari_Matteo_EsAgenzia.Staff">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAAiAAAAAABAAAAAAgAAAAAAAAAAIAAQAAA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Canghiari_Matteo_EsAgenzia.Persona">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAACAAAA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Canghiari_Matteo_EsAgenzia.Cliente">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="CampagnaPubblicitaria" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Canghiari_Matteo_EsAgenzia.StaffAmministratori">
+    <Position X="3.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Canghiari_Matteo_EsAgenzia.StaffCreativo">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="CampagnaPubblicitaria" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Canghiari_Matteo_EsAgenzia.CampagnaPubblicitaria">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAgAACAAIAAgAAAAAAA=</HashCode>
+      <FileName>AgenziaPubblicitaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
