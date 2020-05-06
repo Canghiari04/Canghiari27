@@ -1,0 +1,28 @@
+/Users/andreacecchini/Desktop/Banca_Esercizio/Banca_Esercizio/Banca_Esercizio/obj/Debug/Banca_Esercizio.csprojAssemblyReference.cache
+/Users/andreacecchini/Desktop/Banca_Esercizio/Banca_Esercizio/Banca_Esercizio/obj/Debug/Banca_Esercizio.csproj.CoreCompileInputs.cache
+/Users/andreacecchini/Desktop/Banca_Esercizio/Banca_Esercizio/Banca_Esercizio/bin/Debug/Banca_Esercizio.exe.config
+/Users/andreacecchini/Desktop/Banca_Esercizio/Banca_Esercizio/Banca_Esercizio/bin/Debug/Banca_Esercizio.exe
+/Users/andreacecchini/Desktop/Banca_Esercizio/Banca_Esercizio/Banca_Esercizio/bin/Debug/Banca_Esercizio.pdb
+/Users/andreacecchini/Desktop/Banca_Esercizio/Banca_Esercizio/Banca_Esercizio/obj/Debug/Banca_Esercizio.exe
+/Users/andreacecchini/Desktop/Banca_Esercizio/Banca_Esercizio/Banca_Esercizio/obj/Debug/Banca_Esercizio.pdb
+C:\Users\cecch\OneDrive\Desktop\Banca_Esercizio 2\Banca_Esercizio\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.exe.config
+C:\Users\cecch\OneDrive\Desktop\Banca_Esercizio 2\Banca_Esercizio\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.exe
+C:\Users\cecch\OneDrive\Desktop\Banca_Esercizio 2\Banca_Esercizio\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.pdb
+C:\Users\cecch\OneDrive\Desktop\Banca_Esercizio 2\Banca_Esercizio\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.csprojAssemblyReference.cache
+C:\Users\cecch\OneDrive\Desktop\Banca_Esercizio 2\Banca_Esercizio\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\cecch\OneDrive\Desktop\Banca_Esercizio 2\Banca_Esercizio\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.exe
+C:\Users\cecch\OneDrive\Desktop\Banca_Esercizio 2\Banca_Esercizio\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.pdb
+C:\Users\federico\Desktop\Canghiari_Matteo\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.exe.config
+C:\Users\federico\Desktop\Canghiari_Matteo\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.exe
+C:\Users\federico\Desktop\Canghiari_Matteo\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.pdb
+C:\Users\federico\Desktop\Canghiari_Matteo\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.csprojAssemblyReference.cache
+C:\Users\federico\Desktop\Canghiari_Matteo\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\federico\Desktop\Canghiari_Matteo\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.exe
+C:\Users\federico\Desktop\Canghiari_Matteo\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.pdb
+C:\Users\federico\Desktop\Canghiari_Matteo_EsBanca\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.exe.config
+C:\Users\federico\Desktop\Canghiari_Matteo_EsBanca\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.exe
+C:\Users\federico\Desktop\Canghiari_Matteo_EsBanca\Banca_Esercizio\Banca_Esercizio\bin\Debug\Banca_Esercizio.pdb
+C:\Users\federico\Desktop\Canghiari_Matteo_EsBanca\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.csprojAssemblyReference.cache
+C:\Users\federico\Desktop\Canghiari_Matteo_EsBanca\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\federico\Desktop\Canghiari_Matteo_EsBanca\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.exe
+C:\Users\federico\Desktop\Canghiari_Matteo_EsBanca\Banca_Esercizio\Banca_Esercizio\obj\Debug\Banca_Esercizio.pdb
